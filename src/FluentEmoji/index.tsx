@@ -50,14 +50,14 @@ const FluentEmoji = memo<FluentEmojiProps>(
           return genCdnUrl({
             path: `assets/${emojiName}.webp`,
             pkg: '@ayahub/assets-emoji-anim',
-            version: '1.0.0',
+            version: 'latest',
           });
         }
         case '3d': {
           return genCdnUrl({
             path: `assets/${emojiName}.webp`,
             pkg: '@ayahub/assets-emoji',
-            version: '1.3.0',
+            version: 'latest',
           });
         }
       }
