@@ -43,6 +43,7 @@ English ・ [简体中文](./README.zh-CN.md) ・ [Changelog](./CHANGELOG.md) ·
 - [🤝 Contributing](#-contributing)
 - [🩷 Sponsor](#-sponsor)
 - [🔗 More Products](#-more-products)
+- [🔗 Credits](#-credits)
 
 ####
 
@@ -169,6 +170,16 @@ Every bit counts and your one-time donation sparkles in our galaxy of support! Y
 
 </div>
 
+## 🔗 Credits
+
+- _Inspired by [LobeHub][profile-link-lobe]_
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
 ---
 
 <details><summary><h4>📝 License</h4></summary>
@@ -221,5 +232,6 @@ This project is [MIT](./LICENSE) licensed.
 [pr-welcome-link]: https://github.com/weloobe/aya-chat/pulls
 [pr-welcome-shield]: https://img.shields.io/badge/🤯_pr_welcome-%E2%86%92-ffcb47?labelColor=black&style=for-the-badge
 [profile-link]: https://github.com/ayahub
+[profile-link-lobe]: https://github.com/lobehub
 [vercel-link]: https://aya-ui.weloobe.com
 [vercel-shield]: https://img.shields.io/website?down_message=offline&label=vercel&labelColor=black&logo=vercel&style=flat-square&up_message=online&url=https%3A%2F%2Faya-ui.weloobe.com
