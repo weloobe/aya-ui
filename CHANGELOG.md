@@ -2,6 +2,158 @@
 
 # Changelog
 
+### [Version 1.129.1](https://github.com/weloobe/aya-ui/compare/v1.129.0...v1.129.1)
+
+<sup>Released on **2024-02-02**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix form group title type.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Fix form group title type ([fe24ab8](https://github.com/weloobe/aya-ui/commit/fe24ab8))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 1.129.0](https://github.com/weloobe/aya-ui/compare/v1.128.8...v1.129.0)
+
+<sup>Released on **2024-01-29**</sup>
+
+#### ✨ Features
+
+- **misc**: ChatInput add `safeArea` prop.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **misc**: ChatInput add `safeArea` prop ([183bdb0](https://github.com/weloobe/aya-ui/commit/183bdb0))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.128.8](https://github.com/weloobe/aya-ui/compare/v1.128.7...v1.128.8)
+
+<sup>Released on **2024-01-29**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Revert to fix.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Revert to fix ([20acfdc](https://github.com/weloobe/aya-ui/commit/20acfdc))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.128.7](https://github.com/weloobe/aya-ui/compare/v1.128.6...v1.128.7)
+
+<sup>Released on **2024-01-28**</sup>
+
+#### 💄 Styles
+
+- **misc**: Form group support icon ReactNode.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Form group support icon ReactNode ([36ff759](https://github.com/weloobe/aya-ui/commit/36ff759))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.128.6](https://github.com/weloobe/aya-ui/compare/v1.128.5...v1.128.6)
+
+<sup>Released on **2024-01-28**</sup>
+
+#### 💄 Styles
+
+- **misc**: Improve css logical properties.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Improve css logical properties ([6c08f43](https://github.com/weloobe/aya-ui/commit/6c08f43))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.128.5](https://github.com/weloobe/aya-ui/compare/v1.128.4...v1.128.5)
+
+<sup>Released on **2024-01-25**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: No display of time, No display of time, No display of time on mobile.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: No display of time ([4ea7314](https://github.com/weloobe/aya-ui/commit/4ea7314))
+- **misc**: No display of time ([0b6f78c](https://github.com/weloobe/aya-ui/commit/0b6f78c))
+- **misc**: No display of time on mobile ([b1ad391](https://github.com/weloobe/aya-ui/commit/b1ad391))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 1.128.4](https://github.com/weloobe/aya-ui/compare/v1.128.3...v1.128.4)
 
 <sup>Released on **2024-01-16**</sup>
